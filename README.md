@@ -20,7 +20,7 @@
 <img width="450" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/23d6347b-5f08-4b6f-8dae-ece793273335">
 
 - #### Section 3: User Input Selection Code
-  - Menu-driven approach for user interaction: Choose between encryption, decryption, or quitting the program. Asking for an integer key and a file extension based on the chosen operation.
+  - Utilizing a menu-driven approach for user interaction, offering options for encryption, decryption, or exiting the program. The user is prompted to input an integer key and a file extension corresponding to the chosen operation.
 
 
 
