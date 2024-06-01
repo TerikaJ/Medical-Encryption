@@ -1,32 +1,31 @@
-
-
 # Digital Data Guardian Project 
 
 ![10062020-ga-what-is-file-encryption-software-main-850x330](https://github.com/TerikaJ/Medical-Encryption/assets/136477450/d5dfb259-9ad9-4bdf-925a-cddb8f76212a)
-# Implementing a File Encryption/Decryption Program within Python IDE
-## Step 1: Create a directory for encryption. 
+## Implementing a File Encryption/Decryption Program within Python IDE
+<h3>&#9312; Create a directory for encryption</h3> 
 
-Organize patient records (clinical notes, lab results, images, etc.) in folders labeled by type, patient name, and date (e.g., Notes-JaneDoe-010123).
+- Organize patient records (clinical notes, lab results, images, etc.) in folders labeled by type, patient name, and date (e.g., Notes-JaneDoe-010123).
 
 
 <img width="450" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/37e9ccef-6c2c-483b-ade0-4a787f9994d1">
 
-## Step 2: Input the Python Master Code into the Integrated Development Environment (IDE) and save it in the master directory with the files.
+<h3>&#9313; Input the Python Master Code into the Integrated Development Environment (IDE) and save it in the master directory with the files.</h3>
 
-### Section 1: Encryption Code (XOR Encryption)
+- #### Section 1: Encryption Code (XOR Encryption)
 <img width="450" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/701b448e-449c-4fe9-a72b-b5f917cff329">
 
-### Section 2: Decryption Code
+- #### Section 2: Decryption Code
 <img width="450" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/23d6347b-5f08-4b6f-8dae-ece793273335">
 
-### Section 3: User Input Selection Code
-Menu-driven approach for user interaction: Choose between encryption, decryption, or quitting the program. Asking for an integer key and a file extension based on the chosen operation.
+- #### Section 3: User Input Selection Code
+  - Menu-driven approach for user interaction: Choose between encryption, decryption, or quitting the program. Asking for an integer key and a file extension based on the chosen operation.
 
 
 
-# Performing Encryption/Decryption on Files
+## Performing Encryption/Decryption on Files
 
-## Step 1: Start New Project on Chosen Python Integrated Development Environment (IDE)
+<h3>&#9312; Begin a New Project in Your Chosen Python Integrated Development Environment (IDE)</h3>
+
 Open and select the file folder directory that was created with patient records and the Python Master Code program script.
 
 <img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/bff09b96-08d3-4a57-86c8-7d44752af657">
