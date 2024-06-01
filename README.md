@@ -28,17 +28,17 @@
 
 <h3>&#9312; Begin a New Project in Your Chosen Python Integrated Development Environment (IDE)</h3>
 
-Open and select the file folder directory that was created with patient records and the Python Master Code program script.
+- Open and navigate to the directory containing the patient records and the Python Master Code program script.
+
 
 <img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/bff09b96-08d3-4a57-86c8-7d44752af657">
 
 <img width="700" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/041118a9-3a44-4323-9e2a-619765781418">
 
-
-## Step 2: Run MasterCode.py Program
+<h3>&#9313; Run MasterCode.py Program</h3>
 <img width="450" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/d933d353-0218-4d01-b34d-d238db74465b">
 
-## Step 3: Follow Prompt and Select Desired Options
+<h3>&#9314; Follow Prompts and Select Desired Options</h3>
 
 ### Option 1 (Important Note: REMEMBER THE INTEGER KEY #, AND MAKE SURE THE SPELLING IS CORRECT)
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/ec610e54-0ea1-4de0-ad31-118457bdd389">
