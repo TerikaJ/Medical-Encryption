@@ -1,5 +1,9 @@
-# Implementing a File Encryption/Decryption Program within Python IDE
 
+
+# Digital Data Guardian Project 
+
+![10062020-ga-what-is-file-encryption-software-main-850x330](https://github.com/TerikaJ/Medical-Encryption/assets/136477450/d5dfb259-9ad9-4bdf-925a-cddb8f76212a)
+# Implementing a File Encryption/Decryption Program within Python IDE
 ## Step 1: Create a directory for encryption. 
 
 Organize patient records (clinical notes, lab results, images, etc.) in folders labeled by type, patient name, and date (e.g., Notes-JaneDoe-010123).
