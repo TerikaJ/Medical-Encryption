@@ -33,7 +33,7 @@
 
 <img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/bff09b96-08d3-4a57-86c8-7d44752af657">
 
-<img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/041118a9-3a44-4323-9e2a-619765781418">
+<img width="600" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/041118a9-3a44-4323-9e2a-619765781418">
 
 <h3>&#9313; Run MasterCode.py Program</h3>
 <img width="450" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/d933d353-0218-4d01-b34d-d238db74465b">
@@ -42,16 +42,16 @@
 
  - ### "1. Encrypt File"
    - ***Reminder: Please remember the integer key and ensure correct spelling.***
-<img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/ec610e54-0ea1-4de0-ad31-118457bdd389">
-<img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/9d2a8043-63b9-4afe-8cbb-45094e2e502c">
-<img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/5b2bb597-16b9-4c54-befb-8e8852394753">
+<img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/ec610e54-0ea1-4de0-ad31-118457bdd389">
+<img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/9d2a8043-63b9-4afe-8cbb-45094e2e502c">
+<img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/5b2bb597-16b9-4c54-befb-8e8852394753">
  
  - ### "2. Decrypt File"
    - ***Reminder: Please remember THE INTEGER KEY #, AND MAKE SURE THE SPELLING IS CORRECT***
 
-<img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/4fc9954f-7d88-4129-a7ba-8a03efe1085b">
-<img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/7857b7ea-f5ef-47b3-84de-ff973fa1266f">
- <img width="500" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/26c221de-0e21-4775-a4f5-825382be2d4f">
+<img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/4fc9954f-7d88-4129-a7ba-8a03efe1085b">
+<img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/7857b7ea-f5ef-47b3-84de-ff973fa1266f">
+ <img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/26c221de-0e21-4775-a4f5-825382be2d4f">
 
  - ### "3. Quit"
    - ***This will allow you to exit the program.***
