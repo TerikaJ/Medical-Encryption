@@ -41,13 +41,13 @@
 <h3>&#9314; Follow Prompts and Select Desired Options</h3>
 
  - ### "1. Encrypt File"
-   - ***Reminder: Please remember the integer key and ensure correct spelling.***
+   - ***Reminder: Confirm your integer key and save it somewhere secure in order to decrypt the file later.***
 <img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/ec610e54-0ea1-4de0-ad31-118457bdd389">
 <img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/9d2a8043-63b9-4afe-8cbb-45094e2e502c">
 <img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/5b2bb597-16b9-4c54-befb-8e8852394753">
  
  - ### "2. Decrypt File"
-   - ***Reminder: Please remember THE INTEGER KEY #, AND MAKE SURE THE SPELLING IS CORRECT***
+   - ***Reminder: Confirm your integer key.***
 
 <img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/4fc9954f-7d88-4129-a7ba-8a03efe1085b">
 <img width="525" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/7857b7ea-f5ef-47b3-84de-ff973fa1266f">
