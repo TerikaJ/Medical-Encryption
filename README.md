@@ -1,4 +1,4 @@
-# Digital Data Guardian Project 
+# Digital Data Guardian Project :shield: :lock:
 
 ![10062020-ga-what-is-file-encryption-software-main-850x330](https://github.com/TerikaJ/Medical-Encryption/assets/136477450/d5dfb259-9ad9-4bdf-925a-cddb8f76212a)
 
