@@ -65,5 +65,11 @@
 In conclusion, the Digital Data Guardian project offers an innovative solution to address a critical challenge encountered by small medical clinics and insurance firms. Through the implementation of this advanced electronic health records system, these organizations can notably elevate the security and accessibility of patient data, consequently enhancing operational efficiency and fostering patient trust. This initiative represents a significant stride toward establishing a more secure and efficient healthcare data management system.
 
 
+<h1><p align=center> DONE! Good job! </p></h1>
+
+<h2><p align=center>The Next Demonstration:<br><a href="https://github.com/terikaj/osticket-prereqs"> osTicket: Prerequisites and Installation </a></p></h2>
+
+<p align=right> Please delete & clean up your Azure resources when finished!<br>
+If you're unsure of how to do this, please click <a href="https://github.com/terikaj/azure-begin?tab=readme-ov-file">HERE</a>
 
 
