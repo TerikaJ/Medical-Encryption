@@ -40,24 +40,27 @@
 
 <h3>&#9314; Follow Prompts and Select Desired Options</h3>
 
-### Option 1 (Important Note: REMEMBER THE INTEGER KEY #, AND MAKE SURE THE SPELLING IS CORRECT)
+ - ### "1. Encrypt File"
+   - ***Reminder: Please remember the integer key and ensure correct spelling.***
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/ec610e54-0ea1-4de0-ad31-118457bdd389">
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/9d2a8043-63b9-4afe-8cbb-45094e2e502c">
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/5b2bb597-16b9-4c54-befb-8e8852394753">
  
-### Option 2 (Important Note: REMEMBER THE INTEGER KEY #, AND MAKE SURE THE SPELLING IS CORRECT)
+ - ### "2. Decrypt File"
+   - ***Reminder: Please remember THE INTEGER KEY #, AND MAKE SURE THE SPELLING IS CORRECT***
 
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/4fc9954f-7d88-4129-a7ba-8a03efe1085b">
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/7857b7ea-f5ef-47b3-84de-ff973fa1266f">
  <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/26c221de-0e21-4775-a4f5-825382be2d4f">
 
-### Option 3: End of Program
+ - ### "3. Quit"
+   - ***This will allow you to exit the program.***
 <img width="550" alt="image" src="https://github.com/TerikaJ/Medical-Encryption/assets/136477450/acb455fe-b0bc-45c1-84e8-f52cea8a058d">
 
 
-# Conclusion
+## Conclusion
 
-In conclusion, Digital Data Guardian presents a forward-thinking solution to a critical issue facing small medical clinics and insurance firms. By implementing this advanced electronic health records system, these organizations can significantly enhance the security and accessibility of patient data, thereby improving operational efficiency and patient trust. This initiative is a step towards a more secure and efficient healthcare data management system.
+In conclusion, our Digital Data Guardian project presents a forward-thinking solution to a critical issue facing small medical clinics and insurance firms. By implementing this advanced electronic health records system, these organizations can significantly enhance the security and accessibility of patient data, thereby improving operational efficiency and patient trust. This initiative is a step towards a more secure and efficient healthcare data management system.
 
 
 
