@@ -4,6 +4,8 @@
 
 <h2>Implementing File Encryption/Decryption in Python IDE</h2>
 
+ ***IMPORTANT: These steps assume that you've already downloaded python and the IDE onto your computer.***
+
 <h3>&#9312; Create a directory for encryption</h3> 
 
 - Organize patient records (clinical notes, lab results, images, etc.) in folders labeled by type, patient name, and date (e.g., Notes-JaneDoe-010123).
